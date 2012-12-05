@@ -1,11 +1,12 @@
 @charset "utf-8";
 
 /* =============================================================================
-   HTML Standard CSS
-   ========================================================================== */
+  HTML Standard CSS
+  ========================================================================== */
+
+
 body {margin:0; padding:0;}
 #wrapper {font-style: verdana, helvetica, sans-serif; font-size: 12px;}
 #header h1 {font-style: verdana, helvetica, sans-serif; font-size: 14px; color: black; background-color: transparent;}
 #header p, #container p	{font-size: 12px;}
-
 
